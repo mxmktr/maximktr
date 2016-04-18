@@ -1,0 +1,1896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e51e727-4045-4ef0-a2c9-87feee45b694" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/lesson/IO.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/lesson/Logg.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/lesson/singl/Factory.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/lesson/singl/Singl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/lesson/singl/SinglImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/biz/libra/dao/WorkWithDate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/lesson/IO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/lesson/Logg.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/lesson/Prnt.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/lesson/singl/Factory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/lesson/singl/Singl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/lesson/singl/SinglImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/.idea/libraries/Maven__junit_junit_4_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/data/company.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/data/request.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/data/requestShort.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/http/Example.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/http/HttpUrlPost.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/model/DataForSign.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/model/RegDetail.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/modelJAXB/Detail.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/modelJAXB/JAXBCont.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/modelJAXB/Request.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/parser/CreateDomDocument.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/parser/JsonResValidator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/parser/ReadXMLFile.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/parser/WriteXMLFile.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/test/Company.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/test/CompanyTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/test/Department.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/test/Worker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/resources/request.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/resources/response.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/Albums.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/JSonExSec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/JSonExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/JavaToJsonAndBack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/Test.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/http/Example.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/http/HttpUrlPost.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/model/DataForSign.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/model/RegDetail.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/modelJAXB/Detail.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/modelJAXB/JAXBCont.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/modelJAXB/Request.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/parser/CreateDomDocument.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/parser/JsonResValidator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/parser/ReadXMLFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/parser/WriteXMLFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/request.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/response.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/test/Company.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/test/CompanyTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/test/Department.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/test/Worker.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/biz/libra/Test.class" afterPath="$PROJECT_DIR$/target/classes/biz/libra/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/biz/libra/dao/DBConn.class" afterPath="$PROJECT_DIR$/target/classes/biz/libra/dao/DBConn.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/biz/libra/dao/DataDao.class" afterPath="$PROJECT_DIR$/target/classes/biz/libra/dao/DataDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/biz/libra/model/CashTableData.class" afterPath="$PROJECT_DIR$/target/classes/biz/libra/model/CashTableData.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/biz/libra/model/Result.class" afterPath="$PROJECT_DIR$/target/classes/biz/libra/model/Result.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/biz/libra/pdf/PDFGenerator.class" afterPath="$PROJECT_DIR$/target/classes/biz/libra/pdf/PDFGenerator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/Card.class" afterPath="$PROJECT_DIR$/target/classes/lesson/Card.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/Coding.class" afterPath="$PROJECT_DIR$/target/classes/lesson/Coding.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/Ex.class" afterPath="$PROJECT_DIR$/target/classes/lesson/Ex.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/ListOfNumbers.class" afterPath="$PROJECT_DIR$/target/classes/lesson/ListOfNumbers.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/MyCal.class" afterPath="$PROJECT_DIR$/target/classes/lesson/MyCal.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/SomeType.class" afterPath="$PROJECT_DIR$/target/classes/lesson/SomeType.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/conteiner/Camera.class" afterPath="$PROJECT_DIR$/target/classes/lesson/conteiner/Camera.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/conteiner/Container.class" afterPath="$PROJECT_DIR$/target/classes/lesson/conteiner/Container.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/conteiner/Phone.class" afterPath="$PROJECT_DIR$/target/classes/lesson/conteiner/Phone.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/conteiner/Product.class" afterPath="$PROJECT_DIR$/target/classes/lesson/conteiner/Product.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/decorator/Deliverable.class" afterPath="$PROJECT_DIR$/target/classes/lesson/decorator/Deliverable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/decorator/ProjectItem.class" afterPath="$PROJECT_DIR$/target/classes/lesson/decorator/ProjectItem.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/io/AAA.class" afterPath="$PROJECT_DIR$/target/classes/lesson/io/AAA.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/io/IO.class" afterPath="$PROJECT_DIR$/target/classes/lesson/io/IO.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/io/Property.class" afterPath="$PROJECT_DIR$/target/classes/lesson/io/Property.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/sort/OneSort.class" afterPath="$PROJECT_DIR$/target/classes/lesson/sort/OneSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/sort/RegExp.class" afterPath="$PROJECT_DIR$/target/classes/lesson/sort/RegExp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/sort/ThreeSort.class" afterPath="$PROJECT_DIR$/target/classes/lesson/sort/ThreeSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/sort/TwoSort.class" afterPath="$PROJECT_DIR$/target/classes/lesson/sort/TwoSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/thread/FirstThread$1.class" afterPath="$PROJECT_DIR$/target/classes/lesson/thread/FirstThread$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/thread/FirstThread.class" afterPath="$PROJECT_DIR$/target/classes/lesson/thread/FirstThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/thread/SimpleThreads$1.class" afterPath="$PROJECT_DIR$/target/classes/lesson/thread/SimpleThreads$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/thread/SimpleThreads$MessageLoop.class" afterPath="$PROJECT_DIR$/target/classes/lesson/thread/SimpleThreads$MessageLoop.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/lesson/thread/SimpleThreads.class" afterPath="$PROJECT_DIR$/target/classes/lesson/thread/SimpleThreads.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mxm/ktr/draft/ClientTest.class" afterPath="$PROJECT_DIR$/target/classes/mxm/ktr/draft/ClientTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mxm/ktr/draft/MultiServer.class" afterPath="$PROJECT_DIR$/target/classes/mxm/ktr/draft/MultiServer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/mxm/ktr/draft/MultiServerThread.class" afterPath="$PROJECT_DIR$/target/classes/mxm/ktr/draft/MultiServerThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/water/Main.class" afterPath="$PROJECT_DIR$/target/classes/water/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/water/dao/DBConn.class" afterPath="$PROJECT_DIR$/target/classes/water/dao/DBConn.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/water/dao/DataDao.class" afterPath="$PROJECT_DIR$/target/classes/water/dao/DataDao.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/water/dao/VodAccServThread.class" afterPath="$PROJECT_DIR$/target/classes/water/dao/VodAccServThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/water/dao/VodAccThread.class" afterPath="$PROJECT_DIR$/target/classes/water/dao/VodAccThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/water/dao/VodCounterThread.class" afterPath="$PROJECT_DIR$/target/classes/water/dao/VodCounterThread.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/water/wwf/LineValidator.class" afterPath="$PROJECT_DIR$/target/classes/water/wwf/LineValidator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/water/wwf/ReadFile.class" afterPath="$PROJECT_DIR$/target/classes/water/wwf/ReadFile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/water/wwf/SeparateLinesResult.class" afterPath="$PROJECT_DIR$/target/classes/water/wwf/SeparateLinesResult.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/model/Request.class" afterPath="$PROJECT_DIR$/../MyProjectXML/target/classes/model/Request.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/model/ResDetail.class" afterPath="$PROJECT_DIR$/../MyProjectXML/target/classes/model/ResDetail.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/model/Response.class" afterPath="$PROJECT_DIR$/../MyProjectXML/target/classes/model/Response.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/parser/ReqXMLParser.class" afterPath="$PROJECT_DIR$/../MyProjectXML/target/classes/parser/ReqXMLParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/target/classes/parser/ResXMLParser.class" afterPath="$PROJECT_DIR$/../MyProjectXML/target/classes/parser/ResXMLParser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Max.iml" afterPath="$PROJECT_DIR$/Max.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/data.txt" afterPath="$PROJECT_DIR$/data/data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lesson/sort/OneSort.java" afterPath="$PROJECT_DIR$/src/main/java/lesson/sort/OneSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../MyProjectXML/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../MyProjectXML/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MyProjectXML/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/MyProjectXML.iml" afterPath="$PROJECT_DIR$/../MyProjectXML/MyProjectXML.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/pom.xml" afterPath="$PROJECT_DIR$/../MyProjectXML/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/model/Request.java" afterPath="$PROJECT_DIR$/../MyProjectXML/src/main/java/model/Request.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/model/ResDetail.java" afterPath="$PROJECT_DIR$/../MyProjectXML/src/main/java/model/ResDetail.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/model/Response.java" afterPath="$PROJECT_DIR$/../MyProjectXML/src/main/java/model/Response.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/parser/ReqXMLParser.java" afterPath="$PROJECT_DIR$/../MyProjectXML/src/main/java/parser/ReqXMLParser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../MyProjectXML/src/main/java/parser/ResXMLParser.java" afterPath="$PROJECT_DIR$/../MyProjectXML/src/main/java/parser/ResXMLParser.java" />
+    </list>
+    <ignored path="Max.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Max" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MyHashCode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/lesson/Lesson24/MyHashCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="38" />
+              <folding>
+                <element signature="e#347#348#0" expanded="false" />
+                <element signature="e#379#380#0" expanded="false" />
+                <element signature="e#409#410#0" expanded="false" />
+                <element signature="e#436#437#0" expanded="false" />
+                <element signature="e#470#471#0" expanded="false" />
+                <element signature="e#500#501#0" expanded="false" />
+                <element signature="e#546#547#0" expanded="false" />
+                <element signature="e#584#585#0" expanded="false" />
+                <element signature="e#611#612#0" expanded="false" />
+                <element signature="e#637#638#0" expanded="false" />
+                <element signature="e#672#673#0" expanded="false" />
+                <element signature="e#702#703#0" expanded="false" />
+                <element signature="e#2053#2054#0" expanded="false" />
+                <element signature="e#2101#2102#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestArithmetics.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestArithmetics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.50591713">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Arithmetics.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log.out" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/log.out">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.037037">
+              <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Tag Library Descriptor" />
+        <option value="XSLT Stylesheet" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Maxim &lt;mxmktr@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/lesson/sort/GenericMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/sort/GenericExt.java" />
+        <option value="$USER_HOME$/dev/java/jdk1.7.0_51/src.zip!/java/util/Arrays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/water/dao/DataDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/gen4/Generator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/gen4/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/gen4/TestMyEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/gen4/MyEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/water/wwf/LineValidator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ebean/TerminalStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ebean/Term.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ebean/City.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ebean/model/Region.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ebean/model/Term.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ebean/model/City.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/Lesson24/Lesson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/Lesson24/Lesson1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/last/Last.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/last/SortMy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/sort/AAA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/sort/Different.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/My.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ebean/model/TerminalStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ebean/Agent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/logger4j/SimpleThreads.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/logger4j/Ex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/logger4j/Singl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/singlton/Singlton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/singlton/SinglMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/logger4j/FileWrite.java" />
+        <option value="$PROJECT_DIR$/data/111.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/logger4j/WWF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/logger4j/DDDD.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/logger4j/JavaLogger.java" />
+        <option value="$PROJECT_DIR$/log/log.out" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/logger4j/Max.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/sort/OneSort.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/max.conf" />
+        <option value="$PROJECT_DIR$/data/data.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/logger4j/Configuration.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/max.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/logger4j/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/singlton/Singl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/singlton/SinglTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/Lesson24/AAA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/lesson/Lesson24/MyHashCode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestArithmetics.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Arithmetics.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="water" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Max" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="log" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
+    <property name="settings.editor.splitter.proportion" value="0.2632094" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6437126" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/js" />
+      <recent name="$PROJECT_DIR$/src/main/java/hibernate/logic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="water" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Arithmetics">
+    <configuration default="false" name="TestArithmetics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Max" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestArithmetics" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestArithmetics.testObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Max" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestArithmetics" />
+      <option name="METHOD_NAME" value="testObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestArithmetics.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Max" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestArithmetics" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestArithmetics.testDiv" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Max" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestArithmetics" />
+      <option name="METHOD_NAME" value="testDiv" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Arithmetics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Arithmetics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Max" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Max" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Collection" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lesson.inner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lesson.inner.Collection" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Max" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.Collection" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestArithmetics" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestArithmetics.testObject" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestArithmetics.testAdd" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestArithmetics.testDiv" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Arithmetics" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Arithmetics" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestArithmetics" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestArithmetics.testDiv" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestArithmetics.testAdd" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestArithmetics.testObject" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e51e727-4045-4ef0-a2c9-87feee45b694" name="Default" comment="" />
+      <created>1446043795119</created>
+      <option name="number" value="Default" />
+      <updated>1446043795119</updated>
+      <workItem from="1446043798071" duration="24434000" />
+      <workItem from="1446461344122" duration="14914000" />
+      <workItem from="1446541180097" duration="618000" />
+      <workItem from="1446559865421" duration="6145000" />
+      <workItem from="1446630173811" duration="17740000" />
+      <workItem from="1446827749605" duration="9758000" />
+      <workItem from="1447078596724" duration="4087000" />
+      <workItem from="1447144150481" duration="3220000" />
+      <workItem from="1447151124158" duration="12501000" />
+      <workItem from="1447170219365" duration="1218000" />
+      <workItem from="1447228216322" duration="16515000" />
+      <workItem from="1447255387180" duration="3870000" />
+      <workItem from="1447260211834" duration="2217000" />
+      <workItem from="1447318051234" duration="10150000" />
+      <workItem from="1447401596506" duration="855000" />
+      <workItem from="1447403729969" duration="7061000" />
+      <workItem from="1447665201467" duration="29032000" />
+      <workItem from="1447835313377" duration="12446000" />
+      <workItem from="1447856552711" duration="18743000" />
+      <workItem from="1447947037632" duration="4615000" />
+      <workItem from="1447952247480" duration="3650000" />
+      <workItem from="1448008065395" duration="6453000" />
+      <workItem from="1448017911761" duration="13573000" />
+      <workItem from="1448266158602" duration="4071000" />
+      <workItem from="1448271986095" duration="39587000" />
+      <workItem from="1448528269202" duration="836000" />
+      <workItem from="1448880957552" duration="1765000" />
+      <workItem from="1448893566300" duration="4214000" />
+      <workItem from="1448962880210" duration="18941000" />
+      <workItem from="1449065952868" duration="3598000" />
+      <workItem from="1449131172362" duration="3822000" />
+      <workItem from="1449221011154" duration="4662000" />
+      <workItem from="1449566626615" duration="7732000" />
+      <workItem from="1449651727421" duration="3717000" />
+      <workItem from="1449736011806" duration="1382000" />
+      <workItem from="1449750960215" duration="5537000" />
+      <workItem from="1449823307104" duration="716000" />
+      <workItem from="1449828226143" duration="3549000" />
+      <workItem from="1449840255364" duration="1597000" />
+      <workItem from="1449845340568" duration="4968000" />
+      <workItem from="1450079722148" duration="9527000" />
+      <workItem from="1450089423149" duration="14000" />
+      <workItem from="1450089870385" duration="2247000" />
+      <workItem from="1450260250635" duration="2202000" />
+      <workItem from="1450273980994" duration="1492000" />
+      <workItem from="1450275477853" duration="3931000" />
+      <workItem from="1450777483223" duration="5185000" />
+      <workItem from="1450953256888" duration="6351000" />
+      <workItem from="1451038580372" duration="6332000" />
+      <workItem from="1451292595081" duration="7626000" />
+      <workItem from="1451375724012" duration="2324000" />
+      <workItem from="1451385887370" duration="2460000" />
+      <workItem from="1451464485809" duration="11411000" />
+      <workItem from="1452072188153" duration="624000" />
+      <workItem from="1452078361950" duration="7881000" />
+      <workItem from="1452609041871" duration="3898000" />
+      <workItem from="1452673593454" duration="95000" />
+      <workItem from="1452673726424" duration="19159000" />
+      <workItem from="1452763882808" duration="6561000" />
+      <workItem from="1452776924333" duration="43000" />
+      <workItem from="1453217251711" duration="478000" />
+      <workItem from="1453218411163" duration="2797000" />
+      <workItem from="1453303256713" duration="1570000" />
+      <workItem from="1453368490502" duration="4986000" />
+      <workItem from="1453381787886" duration="1834000" />
+      <workItem from="1453396050366" duration="95000" />
+      <workItem from="1453453756085" duration="1780000" />
+      <workItem from="1453469408147" duration="835000" />
+      <workItem from="1453470726556" duration="1487000" />
+      <workItem from="1453475880354" duration="448000" />
+      <workItem from="1453795642811" duration="5161000" />
+      <workItem from="1453821848795" duration="2323000" />
+      <workItem from="1453884040943" duration="5770000" />
+      <workItem from="1453898825156" duration="2694000" />
+      <workItem from="1453903234907" duration="2623000" />
+      <workItem from="1453906269303" duration="616000" />
+      <workItem from="1453911551754" duration="640000" />
+      <workItem from="1454508429886" duration="1483000" />
+      <workItem from="1454573021336" duration="595000" />
+      <workItem from="1454579861797" duration="1247000" />
+      <workItem from="1454582821479" duration="2284000" />
+      <workItem from="1455031241035" duration="3135000" />
+      <workItem from="1455106373863" duration="3625000" />
+      <workItem from="1455113649358" duration="653000" />
+      <workItem from="1455179250009" duration="2545000" />
+      <workItem from="1455186359088" duration="929000" />
+      <workItem from="1455290209660" duration="923000" />
+      <workItem from="1455524074124" duration="32000" />
+      <workItem from="1455549387991" duration="1261000" />
+      <workItem from="1455553118675" duration="24000" />
+      <workItem from="1455553623827" duration="643000" />
+      <workItem from="1455609045494" duration="7715000" />
+      <workItem from="1455620546245" duration="232000" />
+      <workItem from="1455620786646" duration="6779000" />
+      <workItem from="1455699180516" duration="6405000" />
+      <workItem from="1455872062031" duration="5221000" />
+      <workItem from="1456133907263" duration="14149000" />
+      <workItem from="1456315840608" duration="2361000" />
+      <workItem from="1456397170384" duration="3711000" />
+      <workItem from="1456475528160" duration="3269000" />
+      <workItem from="1456733574643" duration="2541000" />
+      <workItem from="1456750314822" duration="13926000" />
+      <workItem from="1456849428495" duration="1860000" />
+      <workItem from="1456907213196" duration="1346000" />
+      <workItem from="1456927001230" duration="3302000" />
+      <workItem from="1457259451981" duration="17332000" />
+      <workItem from="1457516445331" duration="3934000" />
+      <workItem from="1457530575134" duration="617000" />
+      <workItem from="1457595575256" duration="281000" />
+      <workItem from="1457596431115" duration="16517000" />
+      <workItem from="1457944474056" duration="217000" />
+      <workItem from="1457944700963" duration="6724000" />
+      <workItem from="1458030195487" duration="2079000" />
+      <workItem from="1458047160516" duration="101000" />
+      <workItem from="1458057658635" duration="997000" />
+      <workItem from="1458058738321" duration="153000" />
+      <workItem from="1458058903440" duration="37000" />
+      <workItem from="1458119775544" duration="1732000" />
+      <workItem from="1458133432024" duration="482000" />
+      <workItem from="1458133924315" duration="57000" />
+      <workItem from="1458133992999" duration="40000" />
+      <workItem from="1458140554092" duration="150000" />
+      <workItem from="1458140987836" duration="210000" />
+      <workItem from="1458141207666" duration="5000" />
+      <workItem from="1458141247198" duration="26000" />
+      <workItem from="1458142514215" duration="639000" />
+      <workItem from="1458143780021" duration="46000" />
+      <workItem from="1458144224044" duration="453000" />
+      <workItem from="1458206295288" duration="2032000" />
+      <workItem from="1458208345408" duration="35000" />
+      <workItem from="1458211181115" duration="5553000" />
+      <workItem from="1458553668696" duration="3120000" />
+      <workItem from="1458556817103" duration="694000" />
+      <workItem from="1458557850781" duration="307000" />
+      <workItem from="1458560311717" duration="3008000" />
+      <workItem from="1458641336735" duration="24256000" />
+      <workItem from="1458820513313" duration="6392000" />
+      <workItem from="1458896342040" duration="776000" />
+      <workItem from="1458908161308" duration="2679000" />
+      <workItem from="1459151195143" duration="7523000" />
+      <workItem from="1459174018315" duration="1860000" />
+      <workItem from="1459181576544" duration="5133000" />
+      <workItem from="1459329764807" duration="8052000" />
+      <workItem from="1459756234568" duration="4856000" />
+      <workItem from="1459844121488" duration="5556000" />
+      <workItem from="1459926944751" duration="6042000" />
+      <workItem from="1460018943037" duration="12634000" />
+      <workItem from="1460382932151" duration="3332000" />
+      <workItem from="1460447094857" duration="7988000" />
+      <workItem from="1460532020433" duration="9090000" />
+      <workItem from="1460558855825" duration="2107000" />
+      <workItem from="1460618007918" duration="5950000" />
+      <workItem from="1460635895817" duration="5327000" />
+      <workItem from="1460730015312" duration="352000" />
+      <workItem from="1460730664276" duration="629000" />
+      <workItem from="1460733755390" duration="230000" />
+      <workItem from="1460734199957" duration="614000" />
+      <workItem from="1460961892327" duration="2435000" />
+      <workItem from="1460967991190" duration="4392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestArithmetics - 2016.04.14 at 18h 06m 49s.xml">
+      <configuration name="TestArithmetics" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArithmetics - 2016.04.14 at 18h 07m 31s.xml">
+      <configuration name="TestArithmetics" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArithmetics - 2016.04.14 at 18h 13m 27s.xml">
+      <configuration name="TestArithmetics" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArithmetics - 2016.04.14 at 18h 21m 55s.xml">
+      <configuration name="TestArithmetics" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArithmetics - 2016.04.14 at 18h 22m 22s.xml">
+      <configuration name="TestArithmetics" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArithmetics_testAdd - 2016.04.14 at 18h 21m 08s.xml">
+      <configuration name="TestArithmetics.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArithmetics_testAdd - 2016.04.14 at 18h 21m 39s.xml">
+      <configuration name="TestArithmetics.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArithmetics_testDiv - 2016.04.14 at 18h 22m 15s.xml">
+      <configuration name="TestArithmetics.testDiv" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArithmetics_testObject - 2016.04.14 at 18h 20m 48s.xml">
+      <configuration name="TestArithmetics.testObject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestArithmetics_testObject - 2016.04.14 at 18h 20m 54s.xml">
+      <configuration name="TestArithmetics.testObject" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="757988000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1045" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32666665" sideWeight="0.4978701" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32555556" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852387" sideWeight="0.4978701" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32819384" sideWeight="0.5021299" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12140575" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2188889" sideWeight="0.49786323" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20643729" sideWeight="0.4978701" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15261473" sideWeight="0.49102563" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24813233" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20766774" sideWeight="0.5089744" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="100" y="100" width="1706" height="845" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="2016 04.18 - git test" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016 04.18 - git test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0_72/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33269963">
+          <caret line="1173" column="23" selection-start-line="1173" selection-start-column="23" selection-end-line="1173" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0_72/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.319588">
+          <caret line="475" column="27" selection-start-line="475" selection-start-column="27" selection-end-line="475" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0_72/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4742268">
+          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mxm/ktr/draft/MultiServerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.082474224">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mxm/ktr/draft/MultiServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14432989">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mxm/ktr/draft/ClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7628866">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/logger/Logg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/logger/MyLogger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.742268">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0_72/src.zip!/java/io/BufferedInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.020618556">
+          <caret line="262" column="28" selection-start-line="262" selection-start-column="28" selection-end-line="262" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/sort/Different.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="0" selection-start-line="15" selection-start-column="7" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/sort/OneSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5591716">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/mytxtx.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/io/IO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3195266">
+          <caret line="12" column="83" selection-start-line="12" selection-start-column="83" selection-end-line="12" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/io/AAA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1331361">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/max2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0_72/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3860947">
+          <caret line="803" column="57" selection-start-line="803" selection-start-column="57" selection-end-line="803" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/SomeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.556701">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/111.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07988165">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16494845">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/max.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.020618556">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/logger4j/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/logger4j/Max.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/singlton/Singlton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.82474226">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/singlton/SinglTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39940828">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/singlton/Singl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47928995">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/serial/CustomObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/serial/DataObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/serial/NonSeriablizle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/serial/Operation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/gen/CoffeeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.17307693">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/gen/Latte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1331361">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/gen/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1331361">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/conteiner/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34615386">
+          <caret line="13" column="83" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0_72/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7056213">
+          <caret line="161" column="31" selection-start-line="161" selection-start-column="31" selection-end-line="161" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/Lesson24/Lesson1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18639053">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/Lesson24/Lesson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50591713">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/thread/SimpleThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.8372781">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/thread/FirstThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1331361">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/thr/ThreadEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7307692">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/thr/ClassEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18639053">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/Lesson24/AAA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33284023">
+          <caret line="730" column="24" selection-start-line="730" selection-start-column="24" selection-end-line="730" selection-end-column="24" />
+          <folding>
+            <element signature="e#25515#25516#0" expanded="false" />
+            <element signature="e#25565#25566#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lesson/Lesson24/MyHashCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="38" />
+          <folding>
+            <element signature="e#347#348#0" expanded="false" />
+            <element signature="e#379#380#0" expanded="false" />
+            <element signature="e#409#410#0" expanded="false" />
+            <element signature="e#436#437#0" expanded="false" />
+            <element signature="e#470#471#0" expanded="false" />
+            <element signature="e#500#501#0" expanded="false" />
+            <element signature="e#546#547#0" expanded="false" />
+            <element signature="e#584#585#0" expanded="false" />
+            <element signature="e#611#612#0" expanded="false" />
+            <element signature="e#637#638#0" expanded="false" />
+            <element signature="e#672#673#0" expanded="false" />
+            <element signature="e#702#703#0" expanded="false" />
+            <element signature="e#2053#2054#0" expanded="false" />
+            <element signature="e#2101#2102#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/dev/java/jdk1.8.0_72/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9861111">
+          <caret line="3168" column="0" selection-start-line="3168" selection-start-column="0" selection-end-line="3168" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.037037">
+          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/water/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/log.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Arithmetics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestArithmetics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50591713">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6437126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6437126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6437126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6437126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Max</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6437126" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.6437126" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

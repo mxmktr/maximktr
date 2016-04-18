@@ -1,0 +1,99 @@
+12:11:39,229  INFO Application.main:17 - Info Message! 
+java.lang.Exception
+	at lesson.logger4j.Application.main(Application.java:17)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+12:11:39,232  WARN Application.main:18 - Warn Message! 
+12:11:39,232 ERROR Application.main:19 - Error Message! 
+12:11:39,234 FATAL Application.main:20 - Fatal Message! 
+12:16:04,370  INFO Application.main:22 - Info Message! 
+java.lang.Exception
+	at lesson.logger4j.Application.main(Application.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+12:16:04,373  WARN Application.main:23 - Warn Message! 
+12:16:04,374 ERROR Application.main:24 - Error Message! 
+12:16:04,375 FATAL Application.main:25 - Fatal Message! 
+12:18:39,788  INFO Application.main:22 - Info Message! 
+java.lang.Exception
+	at lesson.logger4j.Application.main(Application.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+12:18:39,792  WARN Application.main:23 - Warn Message! 
+12:18:39,792 ERROR Application.main:24 - Error Message! 
+12:18:39,794 FATAL Application.main:25 - Fatal Message! 
+12:19:37,203  INFO Application.main:23 - Info Message! 
+java.lang.Exception
+	at lesson.logger4j.Application.main(Application.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+12:19:37,207  WARN Application.main:24 - Warn Message! 
+12:19:37,207 ERROR Application.main:25 - Error Message! 
+12:19:37,209 FATAL Application.main:26 - Fatal Message! 
+12:19:46,787  INFO Application.main:23 - Info Message! 
+java.lang.Exception
+	at lesson.logger4j.Application.main(Application.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+12:19:46,790  WARN Application.main:24 - Warn Message! 
+12:19:46,790 ERROR Application.main:25 - Error Message! 
+12:19:46,791 FATAL Application.main:26 - Fatal Message! 
+12:20:36,266  INFO Application.main:23 - Info Message! 
+java.lang.Exception
+	at lesson.logger4j.Application.main(Application.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+12:20:36,269  WARN Application.main:24 - Warn Message! 
+12:20:36,269 ERROR Application.main:25 - Error Message! 
+12:20:36,271 FATAL Application.main:26 - Fatal Message! 
+12:21:07,941  INFO Application.main:23 - Info Message! 
+java.lang.Exception
+	at lesson.logger4j.Application.main(Application.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+12:21:07,945  WARN Application.main:24 - Warn Message! 
+12:21:07,945 ERROR Application.main:25 - Error Message! 
+12:21:07,948 FATAL Application.main:26 - Fatal Message! 
+12:22:35,013  INFO Application.main:23 - Info Message! 
+java.lang.Exception
+	at lesson.logger4j.Application.main(Application.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+12:22:35,016  WARN Application.main:24 - Warn Message! 
+12:22:35,016 ERROR Application.main:25 - Error Message! 
+12:22:35,017 FATAL Application.main:26 - Fatal Message! 
+13:54:45,162  INFO Application.main:22 - Info Message! 
+java.lang.Exception
+	at lesson.logger4j.Application.main(Application.java:22)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
+13:54:45,167  WARN Application.main:23 - Warn Message! 
+13:54:45,167 ERROR Application.main:24 - Error Message! 
+13:54:45,169 FATAL Application.main:25 - Fatal Message! 

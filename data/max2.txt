@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-12-14T11:41:15</date>
+  <millis>1450086075767</millis>
+  <sequence>0</sequence>
+  <logger></logger>
+  <level>WARNING</level>
+  <class>java.util.logging.LogManager$RootLogger</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Hello guys....</message>
+</record>
+</log>
